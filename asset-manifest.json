@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewCoder-Codeworld/NewCoder-Codeworld/resume/static/css/main.6bbd6049.css",
+    "main.js": "/NewCoder-Codeworld/NewCoder-Codeworld/resume/static/js/main.e6e78fa5.js",
+    "static/js/453.15db4873.chunk.js": "/NewCoder-Codeworld/NewCoder-Codeworld/resume/static/js/453.15db4873.chunk.js",
+    "index.html": "/NewCoder-Codeworld/NewCoder-Codeworld/resume/index.html",
+    "main.6bbd6049.css.map": "/NewCoder-Codeworld/NewCoder-Codeworld/resume/static/css/main.6bbd6049.css.map",
+    "main.e6e78fa5.js.map": "/NewCoder-Codeworld/NewCoder-Codeworld/resume/static/js/main.e6e78fa5.js.map",
+    "453.15db4873.chunk.js.map": "/NewCoder-Codeworld/NewCoder-Codeworld/resume/static/js/453.15db4873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bbd6049.css",
+    "static/js/main.e6e78fa5.js"
+  ]
+}
